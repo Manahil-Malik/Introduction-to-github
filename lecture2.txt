@@ -1,2 +1,2 @@
 GitHub is a platform for hosting code that allows for version control and collaboration.
-This lesson will teach you the fundamentals of GitHub
+In this lesson we will teach you the fundamentals of GitHub
